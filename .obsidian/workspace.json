@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "df91709be427e397",
+    "type": "split",
+    "children": [
+      {
+        "id": "53cb28c0d395f610",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95160ba66fad383",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ec61908efab122c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e6ad12cd547e18c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png"
+              },
+              "icon": "lucide-image",
+              "title": "封面_S01_你不是三分钟热度你是贪心"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef8c941f82644b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "387370ff1a0adc9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ffa46e5083d8b3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6ee4ae9e2a8ee011",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a06d7bae93032262",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba529173422313cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbf84c14668270bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4877fd687603dede",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "3ba6c88b55e33a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ceb94f5be83dc38b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "04f3a771e19d7f43",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "73988617e9224440",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3e6ad12cd547e18c",
+  "lastOpenFiles": [
+    "个人IP/封面图/封面_S07_自讨苦吃.png",
+    "个人IP/封面图/封面_S06_我把自己当个程序.png",
+    "个人IP/封面图/封面_S05_别靠毅力.png",
+    "个人IP/封面图/封面_S03_你不是懒.png",
+    "个人IP/封面图/封面_S02_一件事怎么开始.png",
+    "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png",
+    "个人IP/skills/小李助手/SKILL.md",
+    "个人IP/封面图/封面_S04_你真的很懒吗.png",
+    "个人IP/封面图",
+    "个人IP/口播待拍/口播素材07_迈出第一步版.md",
+    "个人IP/个人体系库/00_个人体系库索引.md",
+    "个人IP/个人体系库/04_变现体系.md",
+    "个人IP/个人体系库/03_学习体系.md",
+    "个人IP/个人体系库/02_向上思维体系.md",
+    "个人IP/个人体系库/01_沟通体系.md",
+    "个人IP/个人体系库",
+    "个人IP/爆款博主案例库.md",
+    "个人IP/一人公司操作系统_小李版.md",
+    "个人IP/口播待拍/口播素材06_三分钟热度_贪心版.md",
+    "个人IP/口播痛点素材库_100个真实用户问题.md",
+    "个人IP/口播待拍/口播素材05_纯净版.txt",
+    "个人IP/口播待拍/口播素材05_我把自己当程序_触发开关版.md",
+    "个人IP/skills/小李助手",
+    "个人IP/skills",
+    "个人IP/小李_PROMPT.md",
+    "个人IP/小李专属AI助手提示词.md",
+    "个人IP/口播档案/微启动程序_系列完整大纲.md",
+    "个人IP/口播档案/抖音话题推荐_2026-08-17.md",
+    "个人IP/口播待拍/口播素材04_姜胡说风格融合版.md",
+    "个人IP/爆款博主案例库/姜胡说方法论拆解_怎么开始一件事.md",
+    "个人IP/爆款博主案例库",
+    "知识库/今日行动看板.md",
+    "知识库/研究报告/全面诊断_知识库与学习进度_2026-08-17.md",
+    "个人IP/口播档案/口播实验库_索引.md",
+    "个人IP/口播档案/口播实验记录_001_开场钩子优化.md",
+    "个人IP/口播待拍/口播素材04_纯净版.txt",
+    "个人IP/口播待拍/口播素材04_微启动程序_把开始拆到5秒.md",
+    "个人IP/口播档案/口播文案分析_2026-08-17.md",
+    "个人IP/口播档案/口播数据分析_2026-08-17.md",
+    "个人IP/工作日报存档",
+    "知识库/我的系统/心得卡片库",
+    "个人IP/口播档案"
+  ]
+}
