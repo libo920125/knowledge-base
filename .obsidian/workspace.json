@@ -27,12 +27,14 @@
             "id": "3e6ad12cd547e18c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png"
+                "file": "个人IP/口播待拍/口播素材08_计划坚持不了_反馈模块版.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "封面_S01_你不是三分钟热度你是贪心"
+              "icon": "lucide-file",
+              "title": "口播素材08_计划坚持不了_反馈模块版"
             }
           }
         ]
@@ -204,12 +206,13 @@
   },
   "active": "3e6ad12cd547e18c",
   "lastOpenFiles": [
+    "Home.md",
+    "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png",
     "个人IP/封面图/封面_S07_自讨苦吃.png",
     "个人IP/封面图/封面_S06_我把自己当个程序.png",
     "个人IP/封面图/封面_S05_别靠毅力.png",
     "个人IP/封面图/封面_S03_你不是懒.png",
     "个人IP/封面图/封面_S02_一件事怎么开始.png",
-    "个人IP/封面图/封面_S01_你不是三分钟热度你是贪心.png",
     "个人IP/skills/小李助手/SKILL.md",
     "个人IP/封面图/封面_S04_你真的很懒吗.png",
     "个人IP/封面图",
